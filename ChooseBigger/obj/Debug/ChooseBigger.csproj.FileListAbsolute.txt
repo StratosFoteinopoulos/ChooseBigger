@@ -1,0 +1,7 @@
+C:\Users\stratos\source\repos\ChooseBigger\ChooseBigger\bin\Debug\ChooseBigger.exe.config
+C:\Users\stratos\source\repos\ChooseBigger\ChooseBigger\bin\Debug\ChooseBigger.exe
+C:\Users\stratos\source\repos\ChooseBigger\ChooseBigger\bin\Debug\ChooseBigger.pdb
+C:\Users\stratos\source\repos\ChooseBigger\ChooseBigger\obj\Debug\ChooseBigger.csprojAssemblyReference.cache
+C:\Users\stratos\source\repos\ChooseBigger\ChooseBigger\obj\Debug\ChooseBigger.csproj.CoreCompileInputs.cache
+C:\Users\stratos\source\repos\ChooseBigger\ChooseBigger\obj\Debug\ChooseBigger.exe
+C:\Users\stratos\source\repos\ChooseBigger\ChooseBigger\obj\Debug\ChooseBigger.pdb
